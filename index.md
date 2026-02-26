@@ -1,4 +1,4 @@
-| Tool        | Referral     | Quantity / Price | Quality / Price | Customer Support | NSFW    | Website                                    |
+| Tool        | Referral     | Value for Money | Output Quality | Customer Support | NSFW    | Website                                    |
 | ----------- | ------------ | ---------------- | --------------- | ---------------- | ------- | ------------------------------------------ |
 | Digen AI    | —            | ⭐⭐⭐⭐⭐ (5)        | ⭐⭐⭐ (3)         | ⭐⭐⭐⭐ (4)         | Full    | [https://digen.ai](https://digen.ai)       |
 | PixVerse AI | H46RPL7L     | ⭐⭐⭐⭐ (4)         | ⭐⭐⭐⭐ (4)        | ⭐⭐⭐⭐ (4)         | Strict  | [https://pixverse.ai](https://pixverse.ai) |
